@@ -8,7 +8,7 @@ NavigationParameters = {
     x = 0.065;
     y = 0;
   };
-  dt = 0.025;
+  dt = 0.1;
   max_linear_accel = 0.5;
   max_linear_decel = 0.5;
   max_linear_speed = 0.5;
