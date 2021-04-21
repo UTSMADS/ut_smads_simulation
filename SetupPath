@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Assume that this is being run in the smads_simulation directory
+CurDir=`pwd`
+
+echo "export ROS_PACKAGE_PATH=$CurDir:$CurDir/enml:$CurDir/amrl_msgs:\$ROS_PACKAGE_PATH" >> ~/.bashrc
+

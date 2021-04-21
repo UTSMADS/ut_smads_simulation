@@ -1,0 +1,20 @@
+<package>
+  <description brief="smads_ut_simulation">
+
+     Simulation of SMADS using the AMRL UT Multirobot Simulator
+
+  </description>
+  <author>Maxwell Svetlik</author>
+  <license>GPLv3.0</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="std_msgs"/>
+  <depend package="nav_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="visualization_msgs"/>
+  <depend package="tf"/>
+  <depend package="amrl_msgs"/>
+  <depend package="rosbag"/>
+  <depend package="ut_multirobot_sim"/>
+</package>

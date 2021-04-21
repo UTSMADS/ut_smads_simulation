@@ -1,0 +1,21 @@
+[submodule "ut_multirobot_sim"]
+	path = ut_multirobot_sim
+	url = https://github.com/ut-amrl/ut_multirobot_sim.git
+[submodule "vector_display"]
+	path = vector_display
+	url = https://github.com/ut-amrl/vector_display.git
+[submodule "enml"]
+	path = enml
+	url = https://github.com/ut-amrl/enml.git
+[submodule "amrl_msgs"]
+	path = amrl_msgs
+	url = https://github.com/ut-amrl/amrl_msgs.git
+[submodule "graph_navigation"]
+	path = graph_navigation
+	url = https://github.com/ut-amrl/graph_navigation.git
+[submodule "amrl_shared_lib"]
+	path = amrl_shared_lib
+	url = https://github.com/ut-amrl/amrl_shared_lib.git
+[submodule "config-reader"]
+	path = config-reader
+	url = https://github.com/ut-amrl/config-reader.git
