@@ -3,5 +3,5 @@
 # Assume that this is being run in the smads_simulation directory
 CurDir=`pwd`
 
-echo "export ROS_PACKAGE_PATH=$CurDir:$CurDir/enml:$CurDir/amrl_msgs:\$ROS_PACKAGE_PATH" >> ~/.bashrc
+echo "export ROS_PACKAGE_PATH=$CurDir:$CurDir/enml:$CurDir/amrl_msgs:$CurDir/ut_multirobot_sim:\$ROS_PACKAGE_PATH" >> ~/.bashrc
 
