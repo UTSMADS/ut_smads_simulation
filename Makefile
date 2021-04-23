@@ -20,4 +20,5 @@ build:
 msgs: 
 	cd amrl_msgs && $(MAKE)
 	cd amrl_shared_lib && $(MAKE)
+	cd vector_display && $(MAKE)
 	cd ut_multirobot_sim && $(MAKE) 

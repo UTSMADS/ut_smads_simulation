@@ -93,3 +93,4 @@ ADD_DEPENDENCIES(simulator
 TARGET_LINK_LIBRARIES(simulator
   roslib roscpp glog gflags amrl_shared_lib
     ${BUILD_SPECIFIC_LIBRARIES} rosbag X11 lua5.1 boost_system)
+

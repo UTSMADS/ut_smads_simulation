@@ -13,7 +13,7 @@ This is a one-stop repository to simulate a robot. Once this simulation is runni
 
 2. Add these packages to your ROS_PACKAGE_PATH. You should only need to do this once
 
-   ``` $ ./SetupPath && source ~/.bashrc ```
+   ``` $ ./SetupPath ```
 
 3. Install dependent packages
 
